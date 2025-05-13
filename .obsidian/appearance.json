@@ -4,5 +4,6 @@
   "textFontFamily": "American Typewriter",
   "interfaceFontFamily": "American Typewriter",
   "monospaceFontFamily": "American Typewriter",
-  "baseFontSize": 20
+  "baseFontSize": 20,
+  "theme": "obsidian"
 }
